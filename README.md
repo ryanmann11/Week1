@@ -7,3 +7,4 @@ As a user (interview prepper) I want to set limits around the variety of cases I
 As a user (interview prepper) I want to be able to see names and email addresses for the first years who have signed up for interview prep with me. 
 As a user (interview prepper) I want to see a summary of the cases I am signed up for so that I know what my week is going to look like ahead of time. 
 As a user (interview prepper) I want to be able to have interview preppees see when I'm "sold out" of timeslots, so that I don't have to feel bad refusing when they ask for case prep. 
+As a user (both interview prepper and interview preppee) I want to be able to log in so that the app will remember my information. 
